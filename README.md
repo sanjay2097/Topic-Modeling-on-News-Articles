@@ -14,6 +14,13 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173231931-e370b963-d27d-40e1-a8f2-3a689729c6c4.png)
 
+### Project Files:
+* News Articles.zip : This file contains the dataset used for this project.It includes 2200 news articles grouped into categories.
+* Topic Modeling on News Articles - This is a power point presentation file of a project. It includes various visualaized plots of EDA using Seaborn and Matplotlib. The result chart of various implemented algorithms.
+* Topic Modeling on News Articles.ipynb - This file includes Features description, exploratory data Analysis, data preprocessing and implemented LDA.
+
+![image](https://user-images.githubusercontent.com/98027899/173231931-e370b963-d27d-40e1-a8f2-3a689729c6c4.png)
+
 ### Project Details :
 
 ### Unprocessed Data
@@ -39,6 +46,11 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173231939-896f5cc3-9e20-4caf-93ce-054f38c869fc.png)
 
+### Model References :
+* LDA: https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
+* Topic Modeling: https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+![image](https://user-images.githubusercontent.com/98027899/173231939-896f5cc3-9e20-4caf-93ce-054f38c869fc.png)
 
 ### Conclusion :
 
@@ -52,6 +64,11 @@
 ### Topic modelling applications cover a range of use cases, here are a few real-world examples: Annotation , eDiscovery , Content recommendation , Search engine optimization , Word sense disambiguation etc.This project provides an approach to use topic modelling for classifying various documents which can further be used in supervised learning models to make recommendations for topics.Furthermore, we can use both kinds of information to build a NLP model in the future.
 
 ![image](https://user-images.githubusercontent.com/98027899/173231945-91a27802-7df3-41c1-b245-59e27c8ffd31.png)
+
+### Credits :
+* Sanjay Yadav | Data Scientist
+
+![image](https://user-images.githubusercontent.com/98027899/173231939-896f5cc3-9e20-4caf-93ce-054f38c869fc.png)
 
 
 ### References :
